@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  margin-top: 0.5em;
+  margin-left: 1em;
+}
+
+h2 {
+  font-size: 4em;
+  margin-bottom: 0.4em;
+}
+
+h3 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+ul {
+  font-size: 1.5em;
+  margin-left: 1em;
+  margin-bottom: 0.3em;
+}
